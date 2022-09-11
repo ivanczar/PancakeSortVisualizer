@@ -1,4 +1,5 @@
 # PankakeSortVisualizer
 
-https://user-images.githubusercontent.com/65811518/189513712-d928db31-2d0a-4bd1-98d8-3bcbd7342c9d.mp4
 
+
+![pancake_ivan_czar](https://user-images.githubusercontent.com/65811518/189513790-247a8fb4-5425-4237-a6a9-2ebf3d95f009.gif)
